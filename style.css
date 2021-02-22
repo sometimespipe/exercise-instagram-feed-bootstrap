@@ -1,0 +1,12 @@
+#post-header{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.Date {
+  float: right;
+}
+.Post-name {
+  float: left;
+}
